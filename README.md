@@ -1,0 +1,2 @@
+# Q_Commerce_GTM_Analysis-_freezedried_food_products
+This a market research project , which utlises various aspects of science such ML based predictive modelling , clustering etc... to determine the set of SKUs to be launched in on the prominent Indian Quick Commerce Platforms , It also utlizes operations research based techique to determine  correct sets of parameters such as discount &amp; units sold.
